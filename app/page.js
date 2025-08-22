@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <Image src={pfp} alt="Uma foto minha!!!!" width={200} height={200}/> 
       <h1>João Victor Rocha Fernanandes</h1>
-      <p>Me chamo João, gosto de igrejas com telhado pontudo, risotto e o poeta inglês John Keats. 
+      <p>Me chamo João, estudo Ciência da Computação na UNICAP, gosto de igrejas com telhado pontudo, risotto e o poeta inglês John Keats. 
         Programo aplicações full-stack, sei usar frameworks, desbloqueio iPhone, troco chuveiro elétrico e faço edições de vídeo/imagem.
         Se conecte comigo em outras redes:<br>
         </br> <Link href="https://github.com/naoehcleber"> Github</Link><br>
